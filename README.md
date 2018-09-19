@@ -1,4 +1,6 @@
-# Sentry On-Premise
+# Sentry On-Premise + LDAP
+
+Amended from [the original sentry repository](https://github.com/getsentry/onpremise.git)
 
 Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).
 
